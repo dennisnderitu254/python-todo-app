@@ -124,4 +124,4 @@ urlpatterns = [
 8. Run the Django Development Server:
 
 - Run the Django development server: `python manage.py runserver`.
-- Open the following URL in your web browser: http://127.0.0
+- Open the following URL in your web browser: http://127.0.0.1
